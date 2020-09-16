@@ -3,8 +3,8 @@
  *	In this example program, did the following:
  *		- Examined a simple class with 'instance' data-members, a constructor, accessors, mutators.
  *
- *	@author		<YOUR-NAME>
- *	@studentID  <YOUR STUDENT ID>
+ *	@author		<Muzhda Ehsan>
+ *	@studentID  <100770164>
 */
 
 #include <iostream> 		// cin, cout
